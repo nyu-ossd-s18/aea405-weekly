@@ -22,3 +22,4 @@ permalink: /contributions/
 | 10      | [Open Street Map Contributions](https://www.openstreetmap.org/user/daddybanjo/history#map=19/40.73902/-73.98309) Added address of local bar, Abbey Tavern.                                                                                | OpenMaps       |
 | 10      | [Open Street Map Contributions](https://www.openstreetmap.org/user/daddybanjo/history#map=19/40.73902/-73.98309) Added address of local Museum.                                                                                | OpenMaps       |
 | 13      | Brackets - [Feature request comment](https://github.com/adobe/brackets/issues/14289#issuecomment-386941152)                                                                                | Other       |
+| 14      | Brackets - [OS Confirmation comment](https://github.com/neo4j/neo4j/issues/11740#issuecomment-388273573)                                                                                | Other       |
